@@ -1,16 +1,16 @@
-### Hi there 👋
+###  Boas  vindas au meu perfil 🧑‍🎓
 
-<!--
+
 **caiodeassisferreira/caiodeassisferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é caio de assis ferreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou estuy na [alura](https://www.alura.com.br)
+estou me desenvolvendo no javaScript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### você entrar em cntato comigo
+
+caio.assis.ferreira@escola.pr.gov.br
+
+![](https://media.tenor.com/0CksBva94moAAAAC/luffy-wano.gif)
